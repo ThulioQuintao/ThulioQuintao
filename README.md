@@ -6,30 +6,37 @@ Explorando também o desenvolvimento de APIs e backend com Python.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/seuusuario"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/thulioquintao"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="thulioqtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-Sou um jovem desenvolvedor de 19 anos, formado pelo IFMG e atualmente focado em evoluir no desenvolvimento web com React. Busco entender desde a estruturação de componentes até a criação de aplicações escaláveis, bem organizadas e acessíveis.
+Atualmente tenho 19 anos, sou desenvolvedor front-end, formado pelo IFMG e atualmente focado em evoluir no desenvolvimento web com React. Busco construir uma aplicação escalável, bem organizada e modularizada e visando atingir um site acessível e responsivo para os diferentes dispositivos. Além do front-end, também tenho experiência prática com estruturação de ambientes usando variáveis de ambiente, docker, deploy básico criação de API's e integração com back-end.
 
-Além do front-end, também tenho experiência prática com estruturação de ambientes usando `.env`, Docker, deploy básico e integração com back-end. Conheço bem o funcionamento de metodologias ágeis como Scrum e já atuei em etapas de negociação, levantamento de requisitos e organização de sprints.
-
-Este repositório é meu espaço de prática e aprendizado em público, onde registro avanços reais, pequenos projetos, testes de ideias e aprofundamentos técnicos.
+Este repositório é meu espaço de registro dos meus avanços, pequenos projetos e aprofundamentos técnicos ao longo da minha trilha de aprendizado.
 
 ---
 
 ### 🛠 Tecnologias e habilidades
 
-React · Tailwind CSS · HTML/CSS · JavaScript · Python  
-Responsividade · Acessibilidade · MVP · Docker · Scrum · Integração front-back
+- React
+- Tailwind CSS
+- HTML e CSS
+- JavaScript 
+- Python
+- Criação de API's
+- Responsividade e design mobile-first
+- Boas práticas de acessibilidade
+- Arquitetura MVP 
+- Docker 
+- Integração front-end e back-end
+- Metodologia ágil Scrum (sprints, dayles, organização de tarefas)
 
 ---
 
-### 📌 Próximos passos
+### 🎯 Próximos passos 
 
 - Aprofundar estruturação de aplicações React para produção  
-- Criar APIs REST com Python  
+- Aprender o frameword Next.JS
 - Iniciar estudos em Machine Learning
